@@ -1,0 +1,6 @@
+Student ID,Name,Math,Science,English,History,Total Score,Average Score,Grade,Status,Performance Category
+S101,Alice Smith,88,92,85,78,343,85.75,A,Pass,High Achiever
+S102,Bob Jones,45,58,62,50,215,53.75,D,Pass,Needs Support
+S103,Charlie Brown,92,96,89,91,368,92.0,A+,Pass,High Achiever
+S104,Diana Prince,35,42,50,38,165,41.25,F,Fail,Needs Support
+S105,Evan Wright,78,65,70,82,295,73.75,B,Pass,Moderate / Satisfactory
